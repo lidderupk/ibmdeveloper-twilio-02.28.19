@@ -1,6 +1,7 @@
 # Lunch and Learn : Let's build some bots - An IBM / Twilio joint workshop
 
 ## Slides
+- [IBM / Twilio Chatbot Lunch and Learn](asset/ibm-twilio-chatbot.pdf)
 - [Chatbot series with IBM Watson Assistant](https://github.com/lidderupk/ibm-chatbot-series)
 - Twilio (TBD)
 ## Come join IBM developer SF's meetup and learn how to build bots.
